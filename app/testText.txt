@@ -1,0 +1,8 @@
+[{
+    "url": "https://immense-anchorage-52068.herokuapp.com/app/calendar/42",
+    "location_name": "Enschede",
+    "description": "Enschede, Nederland",
+    "date_time": "2021-11-02T23:23:00Z",
+    "latitude": 52.2215372,
+    "longitude": 6.8936619
+}]
